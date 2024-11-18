@@ -1,0 +1,13 @@
+{
+    "personajes": [
+      {
+        "nombre": "Aventurero",
+        "nivel": 10
+      },
+      {
+        "nombre": "Guerrero",
+        "nivel": 5
+      }
+    ]
+  }
+  
